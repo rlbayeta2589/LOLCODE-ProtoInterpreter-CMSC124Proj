@@ -1,0 +1,12 @@
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/obj/x86/Debug/Proto.gtk-gui.gui.stetic
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/bin/Debug/Proto.exe.mdb
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/bin/Debug/Proto.exe
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/obj/x86/Debug/Proto.exe
+/home/arthjoseph/Desktop/CMSC124/Project/proto saxophone/Proto/Proto/obj/x86/Debug/Proto.exe.mdb
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/obj/x86/Debug/Proto.gtk-gui.gui.stetic
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/bin/Debug/Proto.exe.mdb
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/bin/Debug/Proto.exe
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/obj/x86/Debug/Proto.exe
+/home/arthjoseph/Desktop/proto tryhard/Proto/Proto/obj/x86/Debug/Proto.exe.mdb

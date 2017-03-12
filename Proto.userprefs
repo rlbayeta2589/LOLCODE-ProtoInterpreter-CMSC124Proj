@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Proto\Proto.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proto\MainWindow.cs">
+    <Files>
+      <File FileName="Proto\Main.cs" Line="1" Column="1" />
+      <File FileName="Proto\MainWindow.cs" Line="43" Column="61" />
+      <File FileName="Proto\ScanDialog.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

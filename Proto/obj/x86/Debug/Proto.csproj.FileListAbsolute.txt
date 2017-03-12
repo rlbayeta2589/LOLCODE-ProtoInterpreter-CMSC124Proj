@@ -1,0 +1,15 @@
+C:\Users\Reynaldo Bayeta III\Desktop\proj\proto\Proto\Proto\bin\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\proj\proto\Proto\Proto\bin\Debug\Proto.pdb
+C:\Users\Reynaldo Bayeta III\Desktop\proj\proto\Proto\Proto\obj\x86\Debug\Proto.csprojResolveAssemblyReference.cache
+C:\Users\Reynaldo Bayeta III\Desktop\proj\proto\Proto\Proto\obj\x86\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\proj\proto\Proto\Proto\obj\x86\Debug\Proto.pdb
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\proto tryhard\Proto\Proto\bin\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\proto tryhard\Proto\Proto\bin\Debug\Proto.pdb
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\proto tryhard\Proto\Proto\obj\x86\Debug\Proto.csprojResolveAssemblyReference.cache
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\proto tryhard\Proto\Proto\obj\x86\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\proto tryhard\Proto\Proto\obj\x86\Debug\Proto.pdb
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\TeamSeven124Proj\Proto\Proto\bin\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\TeamSeven124Proj\Proto\Proto\bin\Debug\Proto.pdb
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\TeamSeven124Proj\Proto\Proto\obj\x86\Debug\Proto.csprojResolveAssemblyReference.cache
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\TeamSeven124Proj\Proto\Proto\obj\x86\Debug\Proto.exe
+C:\Users\Reynaldo Bayeta III\Desktop\CMSC124 PROJ\TeamSeven124Proj\Proto\Proto\obj\x86\Debug\Proto.pdb
